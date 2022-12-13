@@ -1,0 +1,24 @@
+{
+	"name": "darling-backend",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/seanocca/darling-backend.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/seanocca/darling-backend/issues"
+	},
+	"homepage": "https://github.com/seanocca/darling-backend#readme",
+	"dependencies": {
+		"http": "^0.0.1-security",
+		"mysql": "^2.18.1"
+	}
+}
